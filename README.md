@@ -1,4 +1,3 @@
-# movie-recommendation-system
 # 🎬 Movie Recommendation System
 
 ## 🚀 Overview
@@ -6,7 +5,6 @@ This project is a content-based movie recommendation system built using linear a
 
 It recommends similar movies based on genre features.
 
----
 
 ## 🧠 Concepts Used
 - Vectors & Feature Representation
