@@ -50,7 +50,7 @@ The Wolverine
 ---
 
 ## 📂 Files
-- `movie_recommender.ipynb` (http://localhost:8888/notebooks/Content-Based%20Filtering%20System%20for%20Movie%20Recommendations.ipynb)  →  Main implementation
+- `movie_recommender.ipynb` (- `movie_recommender.ipynb` → [View Notebook](https://nbviewer.org/github/your-username/movie-recommendation-system/blob/main/movie_recommender.ipynb))  →  Main implementation
 - `tmdb_5000_movies.csv` → Dataset
 
 ---
