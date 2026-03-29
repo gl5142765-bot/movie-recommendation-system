@@ -29,11 +29,14 @@ recommend('Avatar')
 
 
 
+
 Output:
 Superman Returns
 Man of Steel
 X-Men: Days of Future Past
 The Wolverine
+<img width="1157" height="731" alt="image" src="https://github.com/user-attachments/assets/78430985-1f1a-47ff-8875-036cfdf1e6dc" />
+
 
 
 ---
